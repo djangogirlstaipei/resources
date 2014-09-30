@@ -1,0 +1,1 @@
+These are files used by Django Girls Taipei during tutorial sessions and other events. Materials reused under consent. To use these files, please contact us to get a proper permission from Django Girls Taipei or other originators.
